@@ -3,29 +3,16 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © 2023 Скляр Антон"
+footer: "ECL 2.0 Licensed | Copyright © 2024 [Мороз Даниїл]"
 ---
 
+Виконав:
 
-Виконали: 
-
-*студент 2-го курсу, групи ІО-23*<span padding-right:5em></span> Скляр Антон [Пошта: 80kap.i.toshka@gmail.com, [Телеграм](https://t.me/Antntipo)]
-
-*студент 2-го курсу, групи ІО-23*<span padding-right:5em></span> Мороз Даниїл [Пошта: imdanya946@gmail.com, [Телеграм](https://t.me/danya946)]
-
-*студентка 2-го курсу, групи ІО-23*<span padding-right:5em></span> Чепенюк Анастасія [Пошта: cepenukn@gmail.com, [Телеграм](https://t.me/nstchpnk)]
-
-*студентка 2-го курсу, групи ІО-23*<span padding-right:5em></span> Бадюлько Ірина [Пошта: badiulkoiryna@gmail.com, [Телеграм](https://t.me/aposijl)]
-
-*студент 2-го курсу, групи ІО-23*<span padding-right:5em></span> Бичкар Назар [Пошта: mezismezis@gmail.com, [Телеграм](https://t.me/jwnsn)]
-
-*студентка 2-го курсу, групи ІО-23*<span padding-right:5em></span> Козак Яна [Пошта: yanakozak170@gmail.com, [Телеграм](https://t.me/kozak_yana)]
-
-*студент 2-го курсу, групи ІО-23*<span padding-right:5em></span> Пацай Дмитро [Пошта: dbpacaj@gmail.com, [Телеграм](https://t.me/telegadimki)]
+_студент 2-го курсу, групи ІО-23_<span padding-right:5em></span> Мороз Даниїл [Пошта: imdanya946@gmail.com, [Телеграм](https://t.me/danya946)]
 
 Керівник
 
-*доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> Андрій БОЛДАК 
+_доцент кафедри ОТ ФІОТ, к.т.н., доцент_<span padding-right:5em></span> Андрій БОЛДАК
 
 [НТУУ "КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ імені ІГОРЯ СІКОРСЬКОГО](https://kpi.ua/)
 
