@@ -94,7 +94,7 @@ app.delete("/project/:id", async (req, res) => {
     await db.query("DELETE FROM pupsiki.project WHERE id = $1", [id]);
     res.json(project.rows[0]);
   } catch (err) {
-    ProjectController.handleError(err, res);
+    res.status(404).json(err.message);
   }
 });
 app.listen(PORT, () => {
