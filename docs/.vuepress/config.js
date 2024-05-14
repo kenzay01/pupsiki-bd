@@ -86,7 +86,7 @@ module.exports = {
 
     lastUpdated: "Останнє оновлення", // string | boolean
     // Assumes GitHub. Can also be a full GitLab url.
-    repo: "https://github.com/kenzay01/pupsiki-bd.git",
+    repo: "https://github.com/kenzay01/pupsiki-bd",
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: "Github",
